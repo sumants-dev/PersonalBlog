@@ -1,2 +1,2 @@
-# Community Forum
-Community Forum app that allows for posting of content
+# Personal Blog
+Personal Blog app that allows for posting of content
